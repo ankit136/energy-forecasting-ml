@@ -74,7 +74,7 @@ python src/model.py
 
 ## 📸 Project Output
 
-(images/graph1.png)
+images/graph1.png
 
-(images/graph2.png)
+images/graph2.png
 
