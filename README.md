@@ -74,7 +74,8 @@ python src/model.py
 
 ## 📸 Project Output
 
-images/graph1.png
+### Energy Consumption Trend
+![Energy Trend](images/graph1.png)
 
-images/graph2.png
-
+### Actual vs Predicted
+![Prediction](images/graph2.png)
